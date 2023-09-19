@@ -1,0 +1,15 @@
+Access_key
+
+AKIA4ILZSQBBHSN6TQW7
+
+Secre_Access_Key
+
+JAcpF4IlO0Z89hjFn69Czr9/Mvkfn+8e5+IE2lpK
+
+
+Git
+
+https://github.com/shashikiranmh/dev.git
+
+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
+
